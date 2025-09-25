@@ -17,5 +17,10 @@ This is part of Forage virtual internship for Quantium. In this I have analyzed 
 4. Run task_2 trial vs control store.ipynb to see the metrics used for selecting control stores and impact of trial layout on the sales using Statistical Analysis and Visualization.
 5. Run Task 3 - chips analysis presentation.pptx to see the final presentation with all finding and recommendations on future steps.
 
+![alt text](<Screenshot 2025-09-25 183847.png>)
+![alt text](<Screenshot 2025-09-25 183856.png>)
 ![alt text](<Screenshot 2025-09-05 200220.png>)
+![alt text](<Screenshot 2025-09-25 183910.png>)
+![alt text](<Screenshot 2025-09-25 183915.png>)
+![alt text](<Screenshot 2025-09-25 183926.png>)
 
